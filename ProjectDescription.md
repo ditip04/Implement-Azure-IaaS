@@ -6,8 +6,6 @@ This project demonstrates the implementation of **cross-region network connectiv
 
 The solution connects two Azure Virtual Networks deployed in different geographical regions, enabling secure private communication between application and database tiers without routing traffic over the public internet.
 
-The project was completed as part of the **Microsoft Azure AZ-104: Microsoft Azure Administrator** training.
-
 ## 🎯 Project Objectives
 
 - Deploy Azure infrastructure across multiple geographical regions.
